@@ -1,0 +1,6 @@
+#!/bin/sh
+# paci zig --overwrite '/usr/lib/libLLVM-21.so','/usr/lib/libLLVM.so.21.1'
+# zig init
+# paci glfw
+zig build run
+# zig build -fincremental --watch
