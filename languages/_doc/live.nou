@@ -119,3 +119,37 @@
       https://www.reddit.com/r/lisp/comments/vogjl2/lisp_didnt_add_any_value_to_my_life/
       [⡢⣀⣞⠺] Beating the Averages ⌇⡢⣀⣗⢨
         http://www.paulgraham.com/avg.html
+
+
+3h20m 2026-07-18-Sat-W28
+  [;] 12:45 15m #gamedev Qs why game studios given up on Rust
+  [;] 13:45 2h #gamedev Qs why game studios don't use lisp-in-C
+  [^] 16:10 1h5m #gamedev Qs CONT hot-reloading in Zig ⌇⡪⡜⢇⣫
+    FAIL: lisp/scheme
+      * Marshalling Overhead (dynamic-static langs)
+      * Cache Pollution (pointer-heavy dynamic structs)
+      * Context Switching (interpreter)
+    GitHub - Lommix/zig-raylib-wasm-hot-template: raylib template with hot reload and web + native targets. · GitHub ⌇⡪⡛⡭⣡
+      https://github.com/Lommix/zig-raylib-wasm-hot-template
+    [≫] How is Zig working out after 3 years and 100k lines of game code? : r/Zig ⌇⡪⡛⡣⡠
+      https://www.reddit.com/r/Zig/comments/1urljcd/how_is_zig_working_out_after_3_years_and_100k/
+    [✓] BAD: Zig, hot reload, and ABI trouble | Sebastian Schöner ⌇⡪⡛⡭⣦
+      https://blog.s-schoener.com/2026-04-16-zig-abi/
+    [✓⡪⡛⢁⠥] How I made my Zig gameplay code hot reloadable - Madrigal Games ⌇⡪⡛⡭⣅
+      https://www.madrigalgames.com/blog/how-i-made-my-zig-gameplay-code-hot-reloadable/
+      Code hot-reloading - Part 1⚡C++/C#/Zig Gamedev Live - YouTube ⌇⡪⡛⡵⠞
+        https://www.youtube.com/watch?v=LPjATR6s82c&t=297s
+      [<] How I made my Zig gameplay code hot reloadable - Showcase - Ziggit ⌇⡪⡛⡻⡖
+        https://ziggit.dev/t/how-i-made-my-zig-gameplay-code-hot-reloadable/15598
+      [_] 0.16.0 Release Notes ⚡ The Zig Programming Language ⌇⡪⡛⢁⠚
+        https://ziglang.org/download/0.16.0/release-notes.html#Incremental-Compilation
+    [✓] Hot-code reloading on macOS/arm64 with Zig ⌇⡪⡛⡵⠨
+      https://www.jakubkonka.com/2022/03/16/hcs-zig.html
+      The Road to Zig 1.0 - Andrew Kelley - YouTube ⌇⡪⡛⡵⠤
+        https://www.youtube.com/watch?v=Gv2I7qTux7g
+    [≈] Hotreloading in zig - Help - Ziggit ⌇⡪⡛⡻⣃
+      https://ziggit.dev/t/hotreloading-in-zig/1737
+      elf: port 99% of zld ELF linker to Zig proper by kubkon · Pull Request #17556 · ziglang/zig · GitHub ⌇⡪⡛⡼⠙
+        https://github.com/ziglang/zig/pull/17556
+      Zero-Downtime Hot-Reload | Logly.zig ⌇⡪⡛⡼⠺
+        https://muhammad-fiaz.github.io/logly.zig/guide/hot-reload
